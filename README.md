@@ -1,19 +1,18 @@
 <h1 align="center">Roadmap into weeks </h1> 
 
-  
- ## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week. 
-  
- ### This roadmap is divided into 4 stages: 
- ### 1. Stage 1: you get a basic understanding of the prerequisites, data cleaning and git. 
- ### 2. Stage 2: learn visualizing, Tableau, SQL and web scraping. 
- ### 3. Stage 3: dive into ML and Math 
- ### 4. Stage 4: where we learn DL, CV and NLP. 
- 
+
+ ### This roadmap is divided into 4 levels:
+ ```
+ ### 1. Beginner: you learn the tools that will help you complete your journey.
+ ### 2. Intermediate: dive more into cleaning, visualisations and other topics. 
+ ### 3. Advanced: Start your ML and Math journey.
+ ### 4. Professional: Discover Deep Learning, Computer Vision and NLP. 
+ ```
  <br> 
  
  > You should make a task after each week, and some projects after each stage. 
   
- ## Stage 1 
+ ## Beginner
  ### Week 1 : 
  [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>  
  Task 1 : [Notebook link]() <br>  
