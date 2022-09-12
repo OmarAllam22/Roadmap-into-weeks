@@ -99,17 +99,13 @@
  Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
  Task 2 : [Notebook link]() <br>
  
- ### Week 10 : 
- Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
- Task 2 : [Notebook link]() <br>
- 
- ### Week 11 :
+ ### Week 10 :
  First Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br> 
  
- ### Week 12 :
+ ### Week 11 :
  Second Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)<br>
  
- ### Week 11 :
+ ### Week 12 :
  Third Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
  Task 3 : [Notebook link]() <br>
  
