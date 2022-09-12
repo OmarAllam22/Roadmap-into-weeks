@@ -102,32 +102,7 @@
  Finish [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
  [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br> 
   
-  
- ### Week 18 : 
- First 2 chapters in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br> 
-  
-  
- ### Week 19 : 
- Chapters 3,4 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br> 
-  
-  
- ### Week 20 : 
- Chapters 5,6 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br> 
-  
-  
- ### Week 21 : 
- Chapters 7,8 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br> 
-  
-  
- ### Week 22 : 
- Chapter 9 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br> 
- First part in [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br> 
-  
-  
- ### Week 23 : 
- Finish [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br> 
-  
- > More to be added...
+
 
 ## Contact Me :iphone:<br> 
     
