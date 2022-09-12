@@ -41,7 +41,7 @@
  Task 1 : [Notebook link]() <br> 
   
  ### Week 2: 
- [First video in ](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
+ First video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
  [Visualizing (datacamp Seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn) <br>
  Task 2 : [Notebook link]() <br>  
   
