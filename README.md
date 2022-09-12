@@ -21,7 +21,7 @@
  Task 2 : [Notebook link]() <br>  
   
  ### Week 3:
- #### It may take 10 days.
+ It may take 10 days.
  6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
  Task 3 : [Notebook link]() <br>
  [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
