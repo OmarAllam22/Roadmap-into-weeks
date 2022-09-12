@@ -63,42 +63,56 @@
  Task 5 : [Notebook link]() <br>
  
  ### Week 6: 
- [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
- 
+ [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br>
+ [Guide to Inferential Statistics](https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/) <br>
  Task 6 : [Notebook link]() <br>
  
   
   
- ## Stage 3 
- ### Week 13 : 
- [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br> 
- [Intro for Machine ]https://www.coursera.org/learn/ai-for-everyone
- Task 12 : [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc0QKKMx2LuDcnuC_9nDyzQDhnn2BKkwoAe6KxwdQ_FjEsBYw/viewform?usp=sf_link) 
+ ## Advanced
+ ### Week 1 :  
+ First 3 weeks in [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) <br>
 
-
- ### Week 14 : 
- First 3 weeks in [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br>  
+ ### Week 2 : 
+ [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <br>   
+  
+ ### Week 3 : 
  First week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br>  
   
+ ### Week 4 : 
+ Second week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br>
   
- ### Week 15 : 
- Finish [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br> 
- Second week [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br>  
+ ### Week 5 : 
+ Finish [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
+ Task 1 : [Notebook link]() <br>
+ 
+ ### Week 6 : 
+ First Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
   
+ ### Week 7 : 
+ Second Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
   
- ### Week 16 : 
- Finish [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br>
-  
-  
- ### Week 17 : 
- First week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
-  
- ### Week 18 : 
- Finish [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br> 
-  
-
-
+ ### Week 8 : 
+ Third Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+ 
+ ### Week 9 : 
+ Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+ Task 2 : [Notebook link]() <br>
+ 
+ ### Week 10 : 
+ Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+ Task 2 : [Notebook link]() <br>
+ 
+ ### Week 11 :
+ First Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br> 
+ 
+ ### Week 12 :
+ Second Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)<br>
+ 
+ ### Week 11 :
+ Third Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
+ Task 3 : [Notebook link]() <br>
+ 
 ## Contact Me :iphone:<br> 
     
  <a href="https://www.facebook.com/profile.php?id=100010186238433" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a> 
