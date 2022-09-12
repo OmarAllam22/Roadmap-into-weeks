@@ -48,17 +48,18 @@
   
  ### Week 3: 
  [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
- Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction) <br>
+ Read [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
  Task 3 : [Notebook link]() <br>
   
   
  ### Week 4:
- Tableu [udacity course](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) <br>
-                                                                                                   
+ Tableau [udacity course](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) <br>
+ Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction) <br>                                                                               
  Task 4 : [Notebook link]() <br>
  
  ### Week 5: 
- [SQL Tutorial] (https://www.youtube.com/watch?v=HXV3zeQKqGY)) <br> 
+ [SQL Tutorial] (https://www.youtube.com/watch?v=HXV3zeQKqGY)) <br>
+ Read [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
  Task 5 : [Notebook link]() <br>
  
  ### Week 6: 
