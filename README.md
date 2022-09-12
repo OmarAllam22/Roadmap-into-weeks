@@ -30,7 +30,7 @@
  ### Week 4:
  Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
  Read [A Complete Beginner’s Guide to Data Visualization](https://www.analyticsvidhya.com/blog/2021/04/a-complete-beginners-guide-to-data-visualization/?fbclid=IwAR3sPaMHUMuZlYy0h_vh_DvPxtMHLWEoA6QkVB-GsS5uGbRpJGwGO9sMDnY)<br>
- Read [Data Cleansing: How To Clean Data With Python!](https://www.analyticsvidhya.com/blog/2021/06/data-cleansing-how-to-clean-data-with-python/?fbclid=IwAR1GsLRUCx6XRH-QiqRB4SkBrMiS9-K0rWbEjTc672V9tj4D7bvY1rB6YE4)<br>
+ First video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
  Task 5 : [Notebook link]() <br>
  
  
@@ -41,32 +41,30 @@
  [Guide TO Data Cleaning)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) <br>
  Task 1 : [Notebook link]() <br> 
   
- ### Week 2: 
- First video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
+ ### Week 2:
+ Second video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
  [Visualizing (datacamp Seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn) <br>
  Task 2 : [Notebook link]() <br>  
   
-  
- ### Week 9: 
+ ### Week 3: 
  [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
- Task 9 : [Tableau Task](https://docs.google.com/document/d/1TamjhCdFRgyPi6ZRiYFGRs5KyECbcN6a_vpimEK-aP8/edit?usp=sharing) 
+ Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction) <br>
+ Task 3 : [Notebook link]() <br>
   
   
- ### Week 10:
- Finish [Last To Lesson OF Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
- [Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
+ ### Week 4:
+ Tableu [udacity course](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) <br>
+                                                                                                   
+ Task 4 : [Notebook link]() <br>
  
+ ### Week 5: 
+ [SQL Tutorial] (https://www.youtube.com/watch?v=HXV3zeQKqGY)) <br> 
+ Task 5 : [Notebook link]() <br>
  
- ### Week 11: 
- [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
- [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
- Task 10 : [SQL Task]()
- 
-  
- ### Week 12: 
+ ### Week 6: 
  [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
- [Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>  
- Task 11 : [Scraping Task](https://docs.google.com/document/d/1TmhlH5gOV-glWIMgq6P51sPr3GezLnpaiEqDlptsVDE/edit?usp=sharing) 
+ 
+ Task 6 : [Notebook link]() <br>
  
   
   
