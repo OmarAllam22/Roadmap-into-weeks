@@ -54,7 +54,7 @@
   
  ### Week 4:
  Tableau [udacity course](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) <br>
- Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction) <br>                                                                               
+ Read [Notebook](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction)<br>                                                                               
  Task 4 : [Notebook link]() <br>
  
  ### Week 5: 
