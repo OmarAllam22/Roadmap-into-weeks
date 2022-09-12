@@ -35,15 +35,14 @@
  
   
  ## Intermediate 
- ### Week 7:  
+ ### Week 1:  
  [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br>
  [Guide TO Data Cleaning)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
+ Task 1 : [Notebook link]() <br> 
   
-  
- ### Week 8: 
- [Visualizing (datacamp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br>
- [Visualizing (datacamp Seaborn)]https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn
- [More Visualizing (datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
+ ### Week 2: 
+ [First video in)](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
+ [Visualizing (datacamp Seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
  Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) 
   
   
