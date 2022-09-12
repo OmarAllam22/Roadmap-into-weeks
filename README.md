@@ -3,14 +3,12 @@
 
  ### This roadmap is divided into 4 levels:
  ```
- ### 1. Beginner: you learn the tools that will help you complete your journey.
- ### 2. Intermediate: dive more into cleaning, visualisations and other topics. 
- ### 3. Advanced: Start your ML and Math journey.
- ### 4. Professional: Discover Deep Learning, Computer Vision and NLP. 
+1. Beginner: learn the tools that will help you complete your journey.
+2. Intermediate: dive more into cleaning, visualisations and other topics. 
+3. Advanced: Start your ML and Math journey.
+4. Professional: Discover Deep Learning, Computer Vision and NLP. 
  ```
  <br> 
- 
- > You should make a task after each week, and some projects after each stage. 
   
  ## Beginner
  ### Week 1 : 
@@ -18,24 +16,24 @@
  Task 1 : [Notebook link]() <br>  
  
  ### Week 2: 
- [Python summary](https://www.youtube.com/watch?v=rfscVS0vtbw) <br> 
+ [oop (Datacamp Course)](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) <br> 
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
  Task 2 : [Notebook link]() <br>  
   
- ### Week 3: 
- [Descriptive stats](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) <br> 
- 3 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Task 3 : [Notebook link]() <br>  
+ ### Week 3:  
+ 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
+ Task 3 : [Notebook link]() <br>
+ 
   
  ### Week 4: 
  [Numpy PDF](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
  [Pandas PDF](https://drive.google.com/file/d/1sZu349F1HxP9GD9p9tYNUyPQznxJ8DPs/view?usp=drivesdk) <br>
- 4 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
+ 
  Task 4 : [Notebook link]() <br>  
   
   
  ### Week 5: 
- [Git (udacity)](https://bit.ly/3I1h8yc) <br> 
+ 
  [Cleaning blog](https://bit.ly/3vXqybR ) <br> 
  [Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br> 
  
