@@ -29,7 +29,7 @@
   
  ### Week 4:
  Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
+ [A Complete Beginner’s Guide to Data Visualization](https://www.analyticsvidhya.com/blog/2021/04/a-complete-beginners-guide-to-data-visualization/?fbclid=IwAR3sPaMHUMuZlYy0h_vh_DvPxtMHLWEoA6QkVB-GsS5uGbRpJGwGO9sMDnY)<br>
  Task 5 : [Notebook link]() <br>
  
  
