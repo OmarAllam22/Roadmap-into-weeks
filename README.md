@@ -16,7 +16,7 @@
  Task 1 : [Notebook link]() <br>  
  
  ### Week 2: 
- [oop (Datacamp Course)](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) <br> 
+ [oop (Datacamp Course)](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) <br> (3 days)
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
  Task 2 : [Notebook link]() <br>  
   
@@ -41,7 +41,7 @@
  
  [Visualizing (datacamp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
   
- ## Stage 2 
+ ## Intermediate 
  ### Week 7: 
  [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
  [Guide TO Data Cleaning)]https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
