@@ -16,7 +16,7 @@
  Task 1 : [Notebook link]() <br>  
  
  ### Week 2: 
- [oop (Datacamp Course)](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) <br> (3 days)
+ [oop (Datacamp Course)](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) <br>
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
  Task 2 : [Notebook link]() <br>  
   
@@ -27,27 +27,25 @@
  [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
  Task 4 : [Notebook link]() <br>
   
- ### Week 4: 
- [Cleaning blog](https://bit.ly/3vXqybR ) <br> 
- [Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br> 
- Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
+ ### Week 4:
+ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
+ [Data Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br> 
+ Task 5 : [Notebook link]() <br>
+
+ ### Week 5:
+ Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
+ [Data Visualization Kaggle]( https://www.kaggle.com/learn/data-visualization) <br> 
+ Task 6 : [Notebook link]() <br>
   
- ### Week 5: 
- 
- 
- 
-  
- ### Week 6: 
- 
- [Visualizing (datacamp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
   
  ## Intermediate 
- ### Week 7: 
+ ### Week 7:  
  [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
  [Guide TO Data Cleaning)]https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
   
   
  ### Week 8: 
+ [Visualizing (datacamp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br>
  [Visualizing (datacamp Seaborn)]https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn
  [More Visualizing (datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
  Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) 
