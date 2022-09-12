@@ -20,26 +20,25 @@
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
  Task 2 : [Notebook link]() <br>  
   
- ### Week 3:  
+ ### Week 3:
+ #### It may take 10 days.
  6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
  Task 3 : [Notebook link]() <br>
- 
+ [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
+ Task 4 : [Notebook link]() <br>
   
  ### Week 4: 
- [Numpy PDF](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
- [Pandas PDF](https://drive.google.com/file/d/1sZu349F1HxP9GD9p9tYNUyPQznxJ8DPs/view?usp=drivesdk) <br>
- 
- Task 4 : [Notebook link]() <br>  
-  
+ [Cleaning blog](https://bit.ly/3vXqybR ) <br> 
+ [Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br> 
+ Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
   
  ### Week 5: 
  
- [Cleaning blog](https://bit.ly/3vXqybR ) <br> 
- [Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br> 
+ 
  
   
  ### Week 6: 
- Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
+ 
  [Visualizing (datacamp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
   
  ## Stage 2 
