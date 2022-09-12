@@ -33,6 +33,8 @@
  First video in [Matplotlib Tutorials](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
  Task 5 : [Notebook link]() <br>
  
+ ### Week 5:
+ Git [(Udacity course)] (https://www.udacity.com/course/version-control-with-git--ud123) <br>
  
   
  ## Intermediate 
