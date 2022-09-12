@@ -12,7 +12,7 @@
   
  ## Beginner
  ### Week 1 : 
- [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>  
+ [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) 
  Task 1 : [Notebook link]() <br>  
  
  ### Week 2: 
