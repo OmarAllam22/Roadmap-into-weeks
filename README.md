@@ -29,14 +29,10 @@
   
  ### Week 4:
  Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
- [Data Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br> 
- Task 5 : [Notebook link]() <br>
-
- ### Week 5:
  Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
- [Data Visualization Kaggle]( https://www.kaggle.com/learn/data-visualization) <br> 
- Task 6 : [Notebook link]() <br>
-  
+ Task 5 : [Notebook link]() <br>
+ 
+ 
   
  ## Intermediate 
  ### Week 7:  
